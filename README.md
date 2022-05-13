@@ -3,7 +3,7 @@ cohen.c
 
 hodgman.c
 
-yx
+yx.cpp
 
 y_x
 
