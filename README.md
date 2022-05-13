@@ -1,2 +1,12 @@
 # cg
-cohen sutherland,hodgeman,yx,y-x,seedfilling,floodfilling
+cohen_sutherland.c
+
+hodgman.c,
+
+yx
+
+y_x
+
+seedfilling
+
+floodfilling
