@@ -1,7 +1,7 @@
 # cg
-cohen_sutherland.c
+cohen.c
 
-hodgman.c,
+hodgman.c
 
 yx
 
