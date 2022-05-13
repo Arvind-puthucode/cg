@@ -5,7 +5,7 @@ hodgman.c
 
 yx.cpp
 
-y_x
+y-x
 
 seedfilling
 
